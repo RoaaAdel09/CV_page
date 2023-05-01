@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>assignment</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h7230PA0lDdX9gX6QqKKtzKtBqV/0q3M1RSf" crossorigin="anonymous">
+
+
+        <link rel="stylesheet" href="ass.css">
+    </head>
+  <body>
+    <header>
+      <h1>Roaa Adel ALfaqih </h1>
+      <h2>student at Jeddah University in the third year </h2>
+    </header>
+  <div class="PersonalInfO">
+  	<ul>
+      <h2>Personal Information</h2>
+
+      <li>Name: Roaa Adel ALfaqih </li>
+      <li>Email: roaaadelafaq@gmail.com</li>
+      <li>Phone: +966568719661</li>
+      <li>Address:  alrabwh 6, jeddah city</li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/roaa-alfaqih-546a59274/">linkedin.com/in/myprofile</a></li>
+    <li>github : <a href="https://github.com/RoaaAdel09">github Link</a></li>  
+
+    </ul>
+  </div>
+  <div class="Education">
+  <h2>Education</h2>
+  <ul>
+    <li>Bachelor of Science in Computer Science, University of jeddah,  </li>
+  </ul>
+</div>
+<div class="Skills">
+<h2>Skills</h2>
+<ul>
+  <li>Programming languages: Java, Python, SQL</li>
+  <li>Web development: HTML, CSS</li>
+  <li>Database management: MySQL</li>
+</ul>
+</div>
+<div class="Experience">
+<h2>Work Experience</h2>
+<h5>UI/UX development</h5>
+<ul>
+  <li>Attending IQ competitions and creating multiple interfaces using UI/UX </li>
+  <li>Some programs developed using Python</li>
+  <li>Managed database schemas and performed data migration using MySQ</li>
+</ul>
+</div>
+
+    </body>
+</html>
